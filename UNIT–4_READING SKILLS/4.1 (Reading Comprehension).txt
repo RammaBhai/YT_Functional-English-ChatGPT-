@@ -1,0 +1,49 @@
+// ⭐ READING COMPREHENSION (مطالعہ اور فہم)  
+// English + Urdu hints
+
+Reading Comprehension
+│
+├─ 1️⃣ Definition  
+│       define: The ability to **read a passage and understand its meaning, ideas, and information**  
+│       Urdu: کسی عبارت کو پڑھ کر **اس کے معنی، خیالات اور معلومات کو سمجھنا**  
+
+├─ 2️⃣ Steps / Tips for Understanding  
+│
+│   1. Skim the passage → Quickly read for general idea  
+│      // عبارت کا جائزہ لینا → عمومی خیال حاصل کرنے کے لیے جلدی پڑھیں  
+│
+│   2. Scan the passage → Look for specific information  
+│      // معلومات تلاش کرنا → مخصوص معلومات کے لیے دیکھیں  
+│
+│   3. Infer meaning → Understand implied ideas  
+│      // ضمنی مطلب سمجھنا → بیان نہ کیے گئے خیالات کو سمجھنا  
+│
+│   4. Identify main idea → Determine central theme or topic  
+│      // مرکزی خیال معلوم کرنا → مرکزی موضوع یا خیال کی شناخت  
+│
+│   5. Understand vocabulary → Check meanings of difficult words  
+│      // الفاظ کی سمجھ → مشکل الفاظ کے معنی معلوم کریں  
+│
+│   6. Answer questions → Based on passage understanding  
+│      // سوالات کے جواب دینا → عبارت کی بنیاد پر  
+
+├─ 3️⃣ Common Question Types  
+│
+│   1. Multiple Choice Questions (MCQs) → Choose the correct answer  
+│      // صحیح جواب کا انتخاب  
+│
+│   2. True / False / Not Given → Identify facts in passage  
+│      // درست/غلط/نہیں دیا گیا  
+│
+│   3. Fill in the blanks → Complete sentences from passage  
+│      // خالی جگہیں پر کریں  
+│
+│   4. Short answer questions → Answer in 1–2 sentences  
+│      // مختصر جواب  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Reading Comprehension → **Read, understand, and interpret passages**  
+       2. Skimming → عمومی جائزہ، Scanning → مخصوص معلومات  
+       3. Infer → ضمنی مطلب سمجھنا، Vocabulary → مشکل الفاظ  
+       4. Urdu tip: عبارت کے **مرکزی خیال اور تفصیلات** پر دھیان دیں  
+       5. Tip: Practice regularly to **improve speed and understanding**  

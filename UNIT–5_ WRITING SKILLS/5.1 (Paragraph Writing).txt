@@ -1,0 +1,49 @@
+// ⭐ PARAGRAPH WRITING (پیراگراف نویسی)  
+// English + Urdu hints
+
+Writing Skill
+│
+├─ 1️⃣ Definition  
+│       define: **Writing a group of sentences that revolve around a single topic or idea**  
+│       Urdu: ایک ہی موضوع یا خیال پر مبنی **جملوں کے گروہ کو لکھنا**  
+
+├─ 2️⃣ Structure of a Paragraph  
+│
+│   1. Topic Sentence → Introduces main idea  
+│      // مرکزی جملہ → مرکزی خیال پیش کرتا ہے  
+│
+│   2. Supporting Sentences → Provide details, examples, or explanations  
+│      // معاون جملے → تفصیلات، مثالیں یا وضاحت فراہم کرتے ہیں  
+│
+│   3. Concluding Sentence → Summarizes or gives final opinion  
+│      // اختتامی جملہ → خلاصہ پیش کرتا ہے یا آخری رائے دیتا ہے  
+
+├─ 3️⃣ Tips for Writing a Good Paragraph  
+│
+│   1. Stay focused → Keep all sentences related to main idea  
+│      // مرکزی خیال پر توجہ دیں → تمام جملے متعلقہ ہوں  
+│
+│   2. Use linking words → e.g., also, however, therefore  
+│      // رابطے والے الفاظ استعمال کریں → مثلاً، نیز، تاہم، لہذا  
+│
+│   3. Keep sentences clear and concise → Avoid unnecessary details  
+│      // جملے صاف اور مختصر رکھیں → غیر ضروری تفصیلات سے بچیں  
+│
+│   4. Check grammar and punctuation  
+│      // گرائمر اور اوقاف کی جانچ کریں  
+│
+│   5. Practice regularly → Improves writing skills  
+│      // باقاعدگی سے مشق کریں → تحریری مہارت میں بہتری آتی ہے  
+
+├─ 4️⃣ Example  
+│   Topic → My Favorite Season  
+│
+│   Paragraph:  
+│   “My favorite season is winter. I enjoy the cool weather and morning fog. People wear warm clothes and drink hot tea. Winter festivals make it more enjoyable. Overall, winter is my favorite season because it is refreshing and peaceful.”  
+│   // میرا پسندیدہ موسم → سردیوں کا موسم ہے۔ میں ٹھنڈے موسم اور صبح کی دھند کا لطف اٹھاتا ہوں۔ لوگ گرم کپڑے پہنتے ہیں اور گرم چائے پیتے ہیں۔ سردیوں کے میلے اسے مزید خوشگوار بناتے ہیں۔ مجموعی طور پر، سردی میرا پسندیدہ موسم ہے کیونکہ یہ تازگی اور سکون دیتی ہے۔  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Paragraph Writing → **Group of sentences about one topic**  
+       2. Structure → Topic sentence + Supporting sentences + Concluding sentence  
+       3. Tips → Focus, linking words, clarity, grammar, practice  
+       4. Urdu tip: پیراگراف → ایک ہی خیال پر مبنی جملوں کا مجموعہ  

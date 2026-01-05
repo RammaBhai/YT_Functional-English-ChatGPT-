@@ -1,0 +1,56 @@
+// ⭐ NOTE-TAKING SKILLS (نوٹس بنانے کی مہارتیں)
+
+Note-Taking Skills
+│
+├─ 1️⃣ Definition  
+│       define: **The skill of writing important points in short and clear form while listening or reading**  
+│       Urdu: **سنتے یا پڑھتے وقت اہم نکات کو مختصر اور واضح انداز میں لکھنے کی مہارت**  
+
+├─ 2️⃣ Purpose of Note-Taking  
+│       • To remember key information  
+│         // اہم معلومات یاد رکھنے کے لیے  
+│       • To understand concepts better  
+│         // تصورات کو بہتر طور پر سمجھنے کے لیے  
+│       • To revise quickly before exams  
+│         // امتحان سے پہلے جلدی دہرائی کے لیے  
+
+├─ 3️⃣ Key Features of Good Notes  
+│
+│   1. Brevity (اختصار)  
+│       define: **Using short phrases instead of long sentences**  
+│       Urdu: **لمبے جملوں کے بجائے مختصر جملے استعمال کرنا**  
+│
+│   2. Clarity (وضاحت)  
+│       define: **Notes should be easy to read and understand**  
+│       Urdu: **نوٹس واضح اور سمجھنے میں آسان ہوں**  
+│
+│   3. Organization (ترتیب)  
+│       define: **Information arranged logically**  
+│       Urdu: **معلومات کو منظم انداز میں لکھنا**  
+│
+│   4. Accuracy (درستگی)  
+│       define: **Correct and relevant information only**  
+│       Urdu: **صرف درست اور متعلقہ معلومات لکھنا**  
+
+├─ 4️⃣ Common Note-Taking Methods  
+│       • Outline method  
+│         // نکات کی صورت میں لکھنا  
+│       • Mind mapping  
+│         // خاکے یا نقشے کی شکل میں نوٹس  
+│       • Abbreviations and symbols  
+│         // مختصر الفاظ اور نشانات کا استعمال  
+
+├─ 5️⃣ Tips for Effective Note-Taking  
+│       • Listen or read carefully  
+│         // غور سے سنیں یا پڑھیں  
+│       • Write keywords, not full sentences  
+│         // مکمل جملوں کے بجائے اہم الفاظ لکھیں  
+│       • Review notes after class  
+│         // کلاس کے بعد نوٹس دوبارہ دیکھیں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Note-Taking → **Writing key points briefly**  
+       2. Purpose → Remember, understand, revise  
+       3. Features → Brevity, clarity, organization, accuracy  
+       4. Urdu tip: نوٹس بنانا → سیکھنے کو آسان بناتا ہے  
+       5. Tip: **Good notes save time and improve learning**  

@@ -1,0 +1,55 @@
+// ⭐ 9.2 SENTENCE CORRECTION (جملے کی اصلاح)
+
+Sentence Correction
+│
+├─ 1️⃣ Definition  
+│       define: **The process of identifying and fixing errors in a sentence to make it grammatically correct**  
+│       Urdu: **جملے میں موجود غلطیوں کی نشاندہی اور درستگی کا عمل تاکہ جملہ قواعد کے مطابق صحیح ہو**  
+
+├─ 2️⃣ Common Types of Errors  
+│
+│   1. Subject-Verb Agreement Errors (فاعل اور فعل کی مطابقت)  
+│       • Error: The boys goes to school.  
+│       • Correct: The boys **go** to school.  
+│       // لڑکے اسکول جاتے ہیں۔  
+│
+│   2. Tense Errors (زمانہ کی غلطیاں)  
+│       • Error: She go to market yesterday.  
+│       • Correct: She **went** to the market yesterday.  
+│       // وہ کل بازار گئی۔  
+│
+│   3. Preposition Errors (حرفِ جار کی غلطیاں)  
+│       • Error: He is interested on music.  
+│       • Correct: He is interested **in** music.  
+│       // وہ موسیقی میں دلچسپی رکھتا ہے۔  
+│
+│   4. Article Errors (حروفِ تعریف کی غلطیاں)  
+│       • Error: I saw a sun rise.  
+│       • Correct: I saw **the** sun rise.  
+│       // میں نے سورج کے طلوع ہونے کو دیکھا۔  
+│
+│   5. Pronoun Errors (ضمیر کی غلطیاں)  
+│       • Error: Her is my friend.  
+│       • Correct: **She** is my friend.  
+│       // وہ میری دوست ہے۔  
+│
+│   6. Word Order Errors (الفاظ کی ترتیب کی غلطیاں)  
+│       • Error: I only like pizza.  
+│       • Correct: I like **only** pizza.  
+│       // مجھے صرف پیزا پسند ہے۔  
+
+├─ 3️⃣ Steps for Sentence Correction  
+│       1. Identify the error  
+│         // غلطی کی نشاندہی کریں  
+│       2. Understand the correct rule  
+│         // صحیح قاعدے کو سمجھیں  
+│       3. Replace or rearrange the words  
+│         // الفاظ کو تبدیل یا دوبارہ ترتیب دیں  
+│       4. Read the corrected sentence to check  
+│         // درست جملہ پڑھ کر جانچ کریں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Sentence Correction → **Fixing grammatical errors in sentences**  
+       2. Common Errors → Subject-verb, tense, prepositions, articles, pronouns, word order  
+       3. Urdu tip: جملے کی اصلاح → درست بولائی اور لکھائی کے لیے ضروری  
+       4. Tip: **Identify error → apply rule → rewrite → check**  

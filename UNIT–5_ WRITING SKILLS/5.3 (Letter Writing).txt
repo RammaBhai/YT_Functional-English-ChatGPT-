@@ -1,0 +1,50 @@
+// ⭐ LETTER WRITING (خط نویسی)  
+// English + Urdu hints
+
+Letter Writing
+│
+├─ 1️⃣ Definition  
+│       define: **A written message sent to communicate information, feelings, or requests**  
+│       Urdu: **تحریری پیغام جو معلومات، جذبات یا درخواست کے لیے بھیجا جائے**  
+
+├─ 2️⃣ Types of Letters  
+│
+│   1. Formal Letters (رسمی خطوط)  
+│       define: **Letters written for official, professional, or business purposes**  
+│       Urdu: **سرکاری، پیشہ ورانہ یا کاروباری مقاصد کے لیے لکھے گئے خطوط**  
+│       Key Features:  
+│           • Use polite and formal language  
+│           • Include sender’s and receiver’s address  
+│           • Structure → Salutation, Body, Closing  
+│       Example:  
+│           “Dear Principal, I am writing to request leave for three days due to illness.”  
+│           // محترم پرنسپل، میں بیماری کی وجہ سے تین دن کی رخصت کے لیے درخواست دے رہا ہوں۔  
+│
+│   2. Informal Letters (غیر رسمی خطوط)  
+│       define: **Letters written to friends, family, or close acquaintances**  
+│       Urdu: **دوستوں، خاندان یا قریبی لوگوں کے لیے لکھے گئے خطوط**  
+│       Key Features:  
+│           • Friendly and personal tone  
+│           • Less rigid structure  
+│           • Can include emotions, anecdotes  
+│       Example:  
+│           “Dear Ali, I hope you are doing well. I wanted to share my holiday experience with you.”  
+│           // عزیز علی، امید ہے تم خیریت سے ہو۔ میں اپنی چھٹیوں کے تجربے کے بارے میں تمہیں بتانا چاہتا ہوں۔  
+│
+│   3. Applications (درخواستیں)  
+│       define: **Formal letters written to request something from an authority**  
+│       Urdu: **اختیارات سے کچھ درخواست کرنے کے لیے رسمی خط**  
+│       Key Features:  
+│           • Use formal and polite language  
+│           • Clearly state purpose  
+│           • Structure → Salutation, Body, Closing  
+│       Example:  
+│           “To, The Manager, ABC School. Subject: Application for Leave. Respected Sir, I request leave from 5th to 7th January due to family reasons.”  
+│           // مینیجر، اے بی سی اسکول۔ موضوع: رخصت کی درخواست۔ محترم سر، میں خاندانی وجوہات کی بنا پر 5 سے 7 جنوری تک رخصت کی درخواست کرتا ہوں۔  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Letter Writing → **Written communication for information, feelings, or requests**  
+       2. Types → Formal Letters, Informal Letters, Applications  
+       3. Formal → Professional tone, Informal → Friendly tone, Applications → Request purpose  
+       4. Urdu tip: خط نویسی → معلومات یا درخواست بھیجنے کا طریقہ  
+       5. Tip: Always check **format, salutation, and closing phrases**  

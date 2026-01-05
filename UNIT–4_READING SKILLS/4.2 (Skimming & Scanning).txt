@@ -1,0 +1,42 @@
+// ⭐ SKIMMING & SCANNING (جائزہ اور تلاش)  
+// English + Urdu hints
+
+Reading Techniques
+│
+├─ 1️⃣ Skimming (جائزہ لینا)  
+│       define: Reading **quickly to get the general idea** of a passage  
+│       Urdu: عبارت کو جلدی پڑھ کر **عمومی خیال حاصل کرنا**  
+│
+│       Steps:  
+│       1. Read the title, headings, subheadings → Get main topic  
+│          // عنوان اور ذیلی عنوانات پڑھیں → مرکزی خیال معلوم کریں  
+│       2. Read first and last sentences of paragraphs → Summary idea  
+│          // پیراگراف کی پہلی اور آخری سطر پڑھیں → خلاصہ خیال  
+│       3. Look for keywords → Identify overall meaning  
+│          // اہم الفاظ دیکھیں → عمومی معنی جانیں  
+│
+│       Example:  
+│       Passage about “Rainforest” → Skim to know it is about **plants and animals in rainforest**  
+│       // بارش کے جنگل کے بارے میں عبارت → جلدی پڑھیں تاکہ معلوم ہو کہ یہ جنگل کے پودے اور جانوروں کے بارے میں ہے  
+
+├─ 2️⃣ Scanning (تلاش کرنا)  
+│       define: Reading **quickly to find specific information or details**  
+│       Urdu: عبارت کو جلدی پڑھ کر **مخصوص معلومات تلاش کرنا**  
+│
+│       Steps:  
+│       1. Look for numbers, dates, names → Locate exact info  
+│          // اعداد، تاریخیں، نام دیکھیں → درست معلومات تلاش کریں  
+│       2. Ignore irrelevant details → Focus on keywords  
+│          // غیر متعلقہ معلومات نظرانداز کریں → اہم الفاظ پر توجہ دیں  
+│       3. Use fingers or pointer → Helps in fast tracking  
+│          // انگلی یا پوائنٹر کا استعمال → تیز رفتار پڑھنے میں مدد  
+│
+│       Example:  
+│       Passage about “Olympics” → Scan to find **year of first Olympic Games**  
+│       // اولمپکس کے بارے میں عبارت → مخصوص معلومات تلاش کریں: پہلے اولمپکس کا سال  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Skimming → **Get general idea**, focus on **main points**  
+       2. Scanning → **Find specific information**, focus on **keywords/details**  
+       3. Urdu tip: جائزہ → Skimming, تلاش → Scanning  
+       4. Tip: Combine both for **fast and effective reading comprehension**  

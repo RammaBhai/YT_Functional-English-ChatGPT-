@@ -1,0 +1,34 @@
+// ⭐ PREFIXES & SUFFIXES (ابتدائی اور آخری حروف)  
+// English + Urdu hints
+
+Word Formation
+│
+├─ 1️⃣ Prefixes (ابتدائی حروف)  
+│       define: **Letters added at the beginning of a word to change its meaning**  
+│       Urdu: کسی لفظ کے شروع میں لگائے جانے والے حروف، جو معنی بدلتے ہیں  
+│
+│       Examples:  
+│       1. Un + happy → Unhappy  
+│          // خوش → ناخوش  
+│       2. Pre + school → Preschool  
+│          // اسکول سے پہلے → پری اسکول  
+│       3. Mis + understand → Misunderstand  
+│          // غلط سمجھنا  
+│
+├─ 2️⃣ Suffixes (آخری حروف)  
+│       define: **Letters added at the end of a word to change its meaning or form**  
+│       Urdu: کسی لفظ کے آخر میں لگائے جانے والے حروف، جو معنی یا فارم بدلتے ہیں  
+│
+│       Examples:  
+│       1. Play + er → Player  
+│          // کھیلنا → کھلاڑی  
+│       2. Happy + ness → Happiness  
+│          // خوش → خوشی  
+│       3. Teach + er → Teacher  
+│          // پڑھانا → استاد  
+│
+└─ ✅ Summary (خلاصہ)  
+       1. Prefix → word کے **شروع میں لگتا ہے** → معنی بدلتا ہے  
+       2. Suffix → word کے **آخر میں لگتا ہے** → معنی یا فارم بدلتا ہے  
+       3. Prefixes & Suffixes → improve **vocabulary and word formation skills**  
+       4. Urdu tip: شروع کے حروف → Prefix, آخر کے حروف → Suffix  

@@ -1,0 +1,60 @@
+// ⭐ INTERVIEW SKILLS (انٹرویو کی مہارتیں)
+
+Interview Skills
+│
+├─ 1️⃣ Definition  
+│       define: **The ability to communicate confidently and effectively during an interview**  
+│       Urdu: **انٹرویو کے دوران پُراعتماد اور مؤثر انداز میں بات کرنے کی صلاحیت**  
+
+├─ 2️⃣ Purpose of an Interview  
+│       • To assess skills and knowledge  
+│         // مہارت اور علم کا جائزہ لینا  
+│       • To evaluate personality and attitude  
+│         // شخصیت اور رویّے کو جانچنا  
+│       • To select the right candidate  
+│         // درست امیدوار کا انتخاب  
+
+├─ 3️⃣ Types of Interviews  
+│
+│   1. Formal Interview (رسمی انٹرویو)  
+│       define: **Interview conducted in an official setting**  
+│       Urdu: **دفتر یا ادارے میں ہونے والا انٹرویو**  
+│
+│   2. Informal Interview (غیر رسمی انٹرویو)  
+│       define: **Casual interview with relaxed atmosphere**  
+│       Urdu: **سادہ اور غیر رسمی انداز کا انٹرویو**  
+│
+│   3. Panel Interview (پینل انٹرویو)  
+│       define: **Interview conducted by a group of interviewers**  
+│       Urdu: **جہاں ایک سے زیادہ لوگ سوال کرتے ہیں**  
+
+├─ 4️⃣ Before the Interview (انٹرویو سے پہلے)  
+│       • Research the organization  
+│         // ادارے کے بارے میں معلومات حاصل کریں  
+│       • Prepare answers to common questions  
+│         // عام سوالات کی تیاری کریں  
+│       • Dress formally and neatly  
+│         // صاف ستھرا اور رسمی لباس پہنیں  
+
+├─ 5️⃣ During the Interview (انٹرویو کے دوران)  
+│       • Greet politely  
+│         // شائستگی سے سلام کریں  
+│       • Maintain eye contact  
+│         // آنکھوں سے رابطہ رکھیں  
+│       • Speak clearly and confidently  
+│         // واضح اور پُراعتماد انداز میں بات کریں  
+│       • Listen carefully before answering  
+│         // جواب دینے سے پہلے غور سے سنیں  
+
+├─ 6️⃣ After the Interview (انٹرویو کے بعد)  
+│       • Thank the interviewer  
+│         // شکریہ ادا کریں  
+│       • Reflect on performance  
+│         // اپنی کارکردگی کا جائزہ لیں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Interview Skills → **Effective communication during interview**  
+       2. Types → Formal, Informal, Panel  
+       3. Key stages → Before, During, After interview  
+       4. Urdu tip: انٹرویو → خود کو بہترین انداز میں پیش کرنا  
+       5. Tip: **Preparation + confidence = success**  

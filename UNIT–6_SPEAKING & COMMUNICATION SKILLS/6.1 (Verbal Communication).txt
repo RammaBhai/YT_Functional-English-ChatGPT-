@@ -1,0 +1,48 @@
+// ⭐ 6.1 VERBAL COMMUNICATION (زبانی ابلاغ)
+
+Verbal Communication
+│
+├─ 1️⃣ Definition  
+│       define: **Communication using spoken or written words to express ideas, thoughts, or feelings**  
+│       Urdu: **الفاظ کے ذریعے خیالات، احساسات یا معلومات کا تبادلہ**  
+
+├─ 2️⃣ Forms of Verbal Communication  
+│
+│   1. Oral Communication (زبانی گفتگو)  
+│       define: **Communication through spoken words**  
+│       Urdu: **بول کر بات چیت کرنا**  
+│       Examples:  
+│           • Face-to-face conversation  
+│           • Telephone call  
+│           • Speech / Presentation  
+│
+│   2. Written Communication (تحریری گفتگو)  
+│       define: **Communication through written words**  
+│       Urdu: **تحریر کے ذریعے بات چیت**  
+│       Examples:  
+│           • Letters  
+│           • Emails  
+│           • Reports  
+
+├─ 3️⃣ Importance of Verbal Communication  
+│       • Expresses ideas clearly  
+│         // خیالات کو واضح انداز میں بیان کرتا ہے  
+│       • Builds understanding and relationships  
+│         // سمجھ بوجھ اور تعلقات قائم کرتا ہے  
+│       • Helps in education and professional life  
+│         // تعلیم اور پیشہ ورانہ زندگی میں مدد دیتا ہے  
+
+├─ 4️⃣ Key Elements  
+│       • Speaker → Sender of message  
+│         // بولنے والا → پیغام دینے والا  
+│       • Listener → Receiver of message  
+│         // سننے والا → پیغام وصول کرنے والا  
+│       • Language → Medium of communication  
+│         // زبان → ابلاغ کا ذریعہ  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Verbal Communication → **Use of words for communication**  
+       2. Types → Oral (spoken) & Written  
+       3. Purpose → Clear expression and understanding  
+       4. Urdu tip: زبانی ابلاغ → الفاظ کے ذریعے مؤثر بات چیت  
+       5. Tip: Use **clear words, correct tone, and proper language**  

@@ -1,0 +1,30 @@
+// ⭐ HOMOPHONES & HOMONYMS (ہم آواز اور ہم معنی/مخالف معنی والے الفاظ)  
+// English + Urdu hints
+
+Vocabulary
+│
+├─ 1️⃣ Homophones (ہم آواز الفاظ)  
+│       define: Words that **sound the same** but have **different meanings and spellings**  
+│       Urdu: ایسے الفاظ جو **ایک جیسے آواز کرتے ہیں** لیکن معنی اور ہجے مختلف ہوتے ہیں  
+│
+│       Examples:  
+│       1. Pair / Pear → Pair (جوڑا) / Pear (ناشپاتی)  
+│       2. Sea / See → Sea (سمندر) / See (دیکھنا)  
+│       3. Right / Write → Right (صحیح) / Write (لکھنا)  
+│
+├─ 2️⃣ Homonyms (ہم شکل/ہم معنی الفاظ)  
+│       define: Words that **have the same spelling or pronunciation** but **different meanings**  
+│       Urdu: ایسے الفاظ جن کے **ہجے یا آواز ایک جیسے ہوں** لیکن معنی مختلف ہوں  
+│
+│       Examples:  
+│       1. Bark → Bark of a tree (درخت کی چھال) / Dog’s bark (کتے کی بھونک)  
+│       2. Bat → Bat (چمگادڑ) / Bat (بیٹ - کھیل کا آلہ)  
+│       3. Lead → Lead (سیم) / Lead (قیادت کرنا)  
+│
+└─ ✅ Summary (خلاصہ)  
+       1. Homophones → **same sound, different meaning/spelling**  
+       2. Homonyms → **same spelling/pronunciation, different meaning**  
+       3. Urdu tip:  
+           • ہم آواز → Homophones  
+           • ہم معنی/ہم شکل → Homonyms  
+       4. Usage tip: **Context decides meaning**  

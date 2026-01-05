@@ -1,0 +1,25 @@
+💕WORD → MEANING → EXAMPLE
+
+Noun → name of a person, place, or thing → Bilal, Lahore, cat  
+Pronoun → replaces a noun → he, she, her, we  
+Verb → action or state → run, jump, is, am, are  
+Tense → time of action → past, present, future  
+Adjective → describes a noun (quality/habit) → unique, lovely, beautiful  
+Adverb → describes a verb, adjective, or adverb → quickly, slowly, really  
+Preposition → shows direction, place, or time → at, in, on, by  
+Conjunction → joins words or sentences → and, but, or  
+Interjection → shows emotion → wow!, haha!, oh!
+
+💕Wow! Her cat really jumps so high up in the tree.
+
+💕Interjection → Wow!
+Pronoun → Her
+Noun → cat
+Adverb → really
+Verb → jumps
+Adverb → so
+Adverb → high
+Preposition → up
+Preposition → in
+Noun → tree
+Punctuation → !

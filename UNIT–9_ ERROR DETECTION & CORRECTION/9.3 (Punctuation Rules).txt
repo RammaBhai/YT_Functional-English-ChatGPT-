@@ -1,0 +1,73 @@
+// ⭐ 9.3 PUNCTUATION RULES (اوقافی نشانات کے قواعد)
+
+Punctuation Rules
+│
+├─ 1️⃣ Definition  
+│       define: **Rules for using symbols in writing to clarify meaning and indicate pauses or emphasis**  
+│       Urdu: **تحریر میں علامتوں کے استعمال کے قواعد تاکہ مطلب واضح ہو اور وقفے یا زور دکھائی دے**  
+
+├─ 2️⃣ Common Punctuation Marks and Rules  
+│
+│   1. Full Stop / Period (.)  
+│       • Use at the end of a declarative sentence  
+│       // جملے کے آخر میں استعمال کریں  
+│       Example: She is a student.  
+│       // وہ طالبہ ہے۔  
+│
+│   2. Comma (,)  
+│       • Use to separate items in a list  
+│       // فہرست میں عناصر کو جدا کرنے کے لیے  
+│       • Use after introductory words or phrases  
+│       // ابتدائی الفاظ یا جملوں کے بعد  
+│       Example: I bought apples, oranges, and bananas.  
+│       // میں نے سیب، مالٹے، اور کیلے خریدے۔  
+│
+│   3. Question Mark (?)  
+│       • Use at the end of a question  
+│       // سوال کے آخر میں  
+│       Example: Are you coming today?  
+│       // کیا آپ آج آئیں گے؟  
+│
+│   4. Exclamation Mark (!)  
+│       • Use to show strong emotion or emphasis  
+│       // مضبوط جذبات یا زور دکھانے کے لیے  
+│       Example: Wow! That is amazing.  
+│       // واہ! یہ حیرت انگیز ہے۔  
+│
+│   5. Colon (:)  
+│       • Use before a list or explanation  
+│       // فہرست یا وضاحت سے پہلے  
+│       Example: She has three hobbies: reading, painting, and dancing.  
+│       // اس کے تین مشاغل ہیں: پڑھائی، پینٹنگ، اور رقص۔  
+│
+│   6. Semicolon (;)  
+│       • Use to connect related independent clauses  
+│       // متعلقہ آزاد جملوں کو جوڑنے کے لیے  
+│       Example: I have a meeting; I cannot attend the party.  
+│       // میری ملاقات ہے؛ میں پارٹی میں نہیں جا سکتا۔  
+│
+│   7. Quotation Marks (“ ”)  
+│       • Use to show direct speech or quotations  
+│       // براہِ راست گفتگو یا اقتباسات دکھانے کے لیے  
+│       Example: She said, “I am learning English.”  
+│       // اس نے کہا، “میں انگریزی سیکھ رہی ہوں۔”  
+│
+│   8. Apostrophe (’)  
+│       • Use to show possession or contractions  
+│       // ملکیت یا مختصر الفاظ دکھانے کے لیے  
+│       Example: This is Ali’s book. / It’s raining.  
+│       // یہ علی کی کتاب ہے۔ / بارش ہو رہی ہے۔  
+
+├─ 3️⃣ Tips for Correct Punctuation  
+│       • Always read aloud to hear natural pauses  
+│         // ہمیشہ زور سے پڑھیں تاکہ قدرتی وقفے سن سکیں  
+│       • Use punctuation to clarify meaning, not decorate  
+│         // معنی واضح کرنے کے لیے استعمال کریں، سجاوٹ کے لیے نہیں  
+│       • Practice with sample sentences  
+│         // نمونہ جملوں کے ساتھ مشق کریں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Punctuation → **Symbols used to clarify meaning and structure sentences**  
+       2. Common Marks → Period, Comma, Question Mark, Exclamation, Colon, Semicolon, Quotation, Apostrophe  
+       3. Urdu tip: اوقافی نشانات → جملے کو صحیح اور واضح بنانے کے لیے ضروری  
+       4. Tip: **Correct punctuation improves readability and understanding**  

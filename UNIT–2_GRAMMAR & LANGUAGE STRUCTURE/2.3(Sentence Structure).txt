@@ -1,0 +1,29 @@
+// ⭐ SENTENCE TYPES TREE 💡
+// English + Urdu hints (سمجھنے میں آسانی کے لیے)
+
+⭐ Simple Sentence (سادہ جملہ)
+define: 
+    [subject + verb] → provides a complete meaning or thought  
+    eg:  
+        1. He is a student.  // وہ ایک طالب علم ہے۔  
+
+⭐ Compound Sentence (مرکب جملہ)  
+mostly useful: uses **coordinating conjunctions (FANBOYS)**  
+    for, and, nor, but, or, yet, so  
+    (also sometimes: as, if, while)  
+
+// Tree structure
+Compound Sentence
+    ├─ Independent Clause
+    │     define: a clause that can stand alone as a complete sentence  
+    │     eg: I have a car **and** you have a bike.  
+    │         // میرے پاس ایک گاڑی ہے اور تمہارے پاس ایک بائیک ہے۔  
+    └─ Dependent Clause
+          define: a clause that cannot stand alone; depends on the main clause  
+          eg: Although it was raining, we went for a walk.  
+              // اگرچہ بارش ہو رہی تھی، ہم سیر پر گئے۔  
+
+⭐ Complex Sentence (پیچیدہ جملہ)
+define: contains **one independent clause + one or more dependent clauses**  
+    eg: When she arrived, we started the meeting.  
+        // جب وہ پہنچی، ہم نے میٹنگ شروع کی۔

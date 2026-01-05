@@ -1,0 +1,59 @@
+// ⭐ 6.2 NON-VERBAL COMMUNICATION (غیر زبانی ابلاغ)
+
+Non-Verbal Communication
+│
+├─ 1️⃣ Definition  
+│       define: **Communication without using words, through body language, gestures, or expressions**  
+│       Urdu: **الفاظ کے بغیر اشاروں، جسمانی حرکات اور تاثرات کے ذریعے بات چیت**  
+
+├─ 2️⃣ Forms of Non-Verbal Communication  
+│
+│   1. Body Language (جسمانی زبان)  
+│       define: **Use of body movements to convey messages**  
+│       Urdu: **جسم کی حرکات کے ذریعے پیغام دینا**  
+│       Examples:  
+│           • Posture (کھڑے ہونے کا انداز)  
+│           • Hand movements (ہاتھوں کے اشارے)  
+│
+│   2. Facial Expressions (چہرے کے تاثرات)  
+│       define: **Expressions on the face showing emotions**  
+│       Urdu: **چہرے کے تاثرات کے ذریعے جذبات کا اظہار**  
+│       Examples:  
+│           • Smile (مسکراہٹ)  
+│           • Frown (تیوری چڑھانا)  
+│
+│   3. Gestures (اشارے)  
+│       define: **Movements of hands or head to express meaning**  
+│       Urdu: **ہاتھ یا سر کے اشاروں سے مطلب واضح کرنا**  
+│       Examples:  
+│           • Nodding (سر ہلانا)  
+│           • Pointing (اشارہ کرنا)  
+│
+│   4. Eye Contact (آنکھوں کا رابطہ)  
+│       define: **Looking at someone while communicating**  
+│       Urdu: **بات کرتے وقت آنکھوں سے رابطہ رکھنا**  
+│       Importance:  
+│           • Shows confidence  
+│           • Shows attention  
+│
+│   5. Tone of Voice (آواز کا لہجہ)  
+│       define: **The way words are spoken**  
+│       Urdu: **بولنے کا انداز یا لہجہ**  
+│       Examples:  
+│           • Soft tone (نرم لہجہ)  
+│           • Harsh tone (سخت لہجہ)  
+
+├─ 3️⃣ Importance of Non-Verbal Communication  
+│       • Expresses emotions clearly  
+│         // جذبات کو واضح کرتا ہے  
+│       • Supports verbal communication  
+│         // زبانی گفتگو کی مدد کرتا ہے  
+│       • Improves understanding  
+│         // سمجھ بوجھ بہتر بناتا ہے  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Non-Verbal Communication → **Communication without words**  
+       2. Types → Body language, facial expressions, gestures, eye contact, tone  
+       3. Purpose → Express feelings and support spoken messages  
+       4. Urdu tip: غیر زبانی ابلاغ → الفاظ کے بغیر مؤثر اظہار  
+       5. Tip: Match **body language with spoken words** for clarity  

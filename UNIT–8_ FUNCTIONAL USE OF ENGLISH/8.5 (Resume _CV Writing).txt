@@ -1,0 +1,76 @@
+// ⭐ 8.5 RESUME / CV WRITING (ریزیومے / سی وی لکھنا)
+
+Resume / CV Writing
+│
+├─ 1️⃣ Definition  
+│       define: **The skill of creating a professional document summarizing education, experience, skills, and achievements**  
+│       Urdu: **تعلیم، تجربہ، مہارتوں اور کامیابیوں کا خلاصہ پیش کرنے والا پیشہ ورانہ دستاویز تیار کرنے کی مہارت**  
+
+├─ 2️⃣ Purpose of Resume / CV  
+│       • To apply for jobs or internships  
+│         // ملازمت یا انٹرنشپ کے لیے درخواست دینا  
+│       • To showcase qualifications and achievements  
+│         // قابلیت اور کامیابیوں کا مظاہرہ  
+│       • To create a professional first impression  
+│         // پیشہ ورانہ پہلا تاثر قائم کرنا  
+│       • To help recruiters quickly assess suitability  
+│         // بھرتی کرنے والوں کو امیدوار کے موزوں ہونے کا جلد جائزہ لینے میں مدد  
+
+├─ 3️⃣ Key Components  
+│
+│   1. Personal Information (ذاتی معلومات)  
+│       • Name, contact details, address  
+│       // نام، رابطہ کی تفصیلات، پتہ  
+│
+│   2. Objective / Summary (مقصد / خلاصہ)  
+│       • Short statement of career goals  
+│       // کیریئر کے مقاصد کا مختصر بیان  
+│
+│   3. Education (تعلیم)  
+│       • Degrees, institutions, passing year  
+│       // ڈگریاں، ادارے، پاس ہونے کا سال  
+│
+│   4. Work Experience (تجربہ)  
+│       • Previous jobs, internships, responsibilities  
+│       // سابقہ ملازمتیں، انٹرنشپ، ذمہ داریاں  
+│
+│   5. Skills (مہارتیں)  
+│       • Technical, soft skills  
+│       // تکنیکی اور نرم مہارتیں  
+│
+│   6. Achievements / Awards (کامیابیاں / انعامات)  
+│       • Certifications, honors, notable accomplishments  
+│       // سرٹیفیکیٹس، اعزازات، قابل ذکر کامیابیاں  
+│
+│   7. References (حوالہ جات)  
+│       • People who can vouch for you  
+│       // وہ لوگ جو آپ کی تصدیق کر سکیں  
+
+├─ 4️⃣ Tips for Effective Resume / CV  
+│       • Keep it concise and one-page (if possible)  
+│         // مختصر اور ایک صفحے پر رکھیں (اگر ممکن ہو)  
+│       • Use professional formatting and font  
+│         // پیشہ ورانہ فارمیٹنگ اور فونٹ استعمال کریں  
+│       • Highlight achievements and skills  
+│         // کامیابیاں اور مہارتیں نمایاں کریں  
+│       • Avoid irrelevant information  
+│         // غیر متعلقہ معلومات سے گریز کریں  
+│       • Proofread for errors  
+│         // غلطیوں کے لیے جانچ کریں  
+
+├─ 5️⃣ Common Mistakes  
+│       • Spelling and grammar errors  
+│         // املا اور گرامر کی غلطیاں  
+│       • Too long or cluttered format  
+│         // بہت لمبا یا بھرا ہوا فارمیٹ  
+│       • Missing contact information  
+│         // رابطے کی معلومات کا نہ ہونا  
+│       • Lack of clarity in objectives  
+│         // مقاصد کی وضاحت کی کمی  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Resume / CV → **Professional summary of education, experience, and skills**  
+       2. Components → Personal info, objective, education, experience, skills, achievements, references  
+       3. Tips → Concise, clear, professional, error-free  
+       4. Urdu tip: ریزیومے / سی وی → آپ کی پیشہ ورانہ شناخت  
+       5. Tip: **First impression matters; highlight strengths effectively**  

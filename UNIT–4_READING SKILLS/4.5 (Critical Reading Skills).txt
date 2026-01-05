@@ -1,0 +1,41 @@
+// ⭐ CRITICAL READING SKILLS (تنقیدی مطالعہ کی مہارتیں)  
+// English + Urdu hints
+
+Reading Skills
+│
+├─ 1️⃣ Definition  
+│       define: **The ability to read carefully, analyze, evaluate, and interpret the meaning of a text**  
+│       Urdu: عبارت کو غور سے پڑھ کر **تجزیہ، جانچ اور تشریح کرنے کی صلاحیت**  
+
+├─ 2️⃣ Key Critical Reading Skills  
+│
+│   1. Analyzing → Examine structure and arguments  
+│      // تجزیہ کرنا → عبارت کی ساخت اور دلائل کا جائزہ لینا  
+│
+│   2. Evaluating → Assess credibility, bias, and logic  
+│      // جانچنا → اعتبار، تعصب اور منطق کو پرکھنا  
+│
+│   3. Inferring → Draw conclusions from evidence  
+│      // نتیجہ اخذ کرنا → ثبوت کی بنیاد پر نتیجہ نکالنا  
+│
+│   4. Questioning → Ask why, how, and what if  
+│      // سوال کرنا → کیوں، کیسے اور اگر؟ کے سوالات پوچھنا  
+│
+│   5. Summarizing → Identify main ideas and key points  
+│      // خلاصہ کرنا → مرکزی خیال اور اہم نکات کو شناخت کرنا  
+│
+│   6. Connecting → Relate text to prior knowledge or real life  
+│      // تعلق قائم کرنا → عبارت کو پہلے کے علم یا حقیقی زندگی سے جوڑنا  
+
+├─ 3️⃣ Examples  
+│   1. Reading an article on climate change → analyze evidence, check bias, infer solutions  
+│      // ماحولیاتی تبدیلی کے مضمون کا مطالعہ → شواہد کا تجزیہ، تعصب چیک کریں، حل اخذ کریں  
+│
+│   2. Editorial in newspaper → evaluate arguments and credibility of author  
+│      // اخبار میں اداریہ → دلائل اور مصنف کی ساکھ کی جانچ  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Critical Reading → **Read, analyze, evaluate, infer, and connect ideas**  
+       2. Urdu tip: تنقیدی مطالعہ → عبارت پر غور و فکر اور تجزیہ  
+       3. Skills improve → **comprehension, thinking, and decision-making**  
+       4. Practice → Question text, summarize, and relate to real life  

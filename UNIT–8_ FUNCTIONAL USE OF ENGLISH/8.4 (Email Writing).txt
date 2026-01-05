@@ -1,0 +1,66 @@
+// ⭐ 8.4 EMAIL WRITING (ای میل لکھنا)
+
+Email Writing
+│
+├─ 1️⃣ Definition  
+│       define: **The skill of composing and sending messages electronically for formal or informal purposes**  
+│       Urdu: **پیغامات کو الیکٹرانک طور پر لکھنے اور بھیجنے کی مہارت، رسمی یا غیر رسمی مقصد کے لیے**  
+
+├─ 2️⃣ Purpose of Email Writing  
+│       • To communicate formally in professional settings  
+│         // پیشہ ورانہ ماحول میں رسمی گفتگو کے لیے  
+│       • To share information quickly and efficiently  
+│         // معلومات جلد اور مؤثر انداز میں شیئر کرنا  
+│       • To keep a written record  
+│         // تحریری ریکارڈ برقرار رکھنا  
+│       • To request or respond to messages  
+│         // درخواست یا جواب دینے کے لیے  
+
+├─ 3️⃣ Key Components of an Email  
+│
+│   1. Subject Line (موضوع کی لائن)  
+│       define: **Briefly describes the email content**  
+│       Urdu: **ای میل کے مواد کو مختصر طور پر بیان کرتا ہے**  
+│
+│   2. Salutation (سلام)  
+│       define: **Greeting at the beginning of email**  
+│       Urdu: **ای میل کی شروعات میں سلام**  
+│
+│   3. Body (مواد)  
+│       define: **Main message or content**  
+│       Urdu: **مرکزی پیغام یا مواد**  
+│
+│   4. Closing (اختتام)  
+│       define: **Polite ending of the email**  
+│       Urdu: **ای میل کا مہذب اختتام**  
+│
+│   5. Signature (دستخط / سائن)  
+│       define: **Name and contact information of sender**  
+│       Urdu: **بھیجنے والے کا نام اور رابطہ معلومات**  
+
+├─ 4️⃣ Tips for Effective Email Writing  
+│       • Use a clear and concise subject line  
+│         // واضح اور مختصر موضوع کی لائن استعمال کریں  
+│       • Keep the language formal (for professional emails)  
+│         // زبان رسمی رکھیں (پیشہ ورانہ ای میلز کے لیے)  
+│       • Proofread for grammar and spelling mistakes  
+│         // گرامر اور املا کی غلطیوں کی جانچ کریں  
+│       • Be polite and professional  
+│         // مہذب اور پیشہ ور رہیں  
+│       • Keep paragraphs short and focused  
+│         // پیراگراف مختصر اور مرکوز رکھیں  
+
+├─ 5️⃣ Common Email Types  
+│       • Formal Emails  
+│         // رسمی ای میلز  
+│           Examples: Job application, complaint, request  
+│       • Informal Emails  
+│         // غیر رسمی ای میلز  
+│           Examples: To friends, family updates, casual messages  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Email Writing → **Composing messages electronically**  
+       2. Components → Subject, Salutation, Body, Closing, Signature  
+       3. Tips → Clear subject, formal language, proofread, polite  
+       4. Urdu tip: ای میل لکھنا → مؤثر اور پیشہ ورانہ تحریر کی مہارت  
+       5. Tip: **Short, clear, and polite emails are most effective**  

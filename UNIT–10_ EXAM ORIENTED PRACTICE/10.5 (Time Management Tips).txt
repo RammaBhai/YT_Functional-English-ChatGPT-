@@ -1,0 +1,53 @@
+// ⭐ 10.5 TIME MANAGEMENT TIPS (وقت کی منصوبہ بندی کے مشورے)
+
+Time Management Tips
+│
+├─ 1️⃣ Definition  
+│       define: **Strategies to effectively plan and allocate time for studying, practice, and exams to maximize performance**  
+│       Urdu: **مطالعہ، مشق اور امتحان کے لیے وقت کو مؤثر طریقے سے منصوبہ بندی اور تقسیم کرنے کی حکمت عملی تاکہ کارکردگی زیادہ سے زیادہ ہو**  
+
+├─ 2️⃣ Key Time Management Tips  
+│
+│   1. Make a Study Schedule (مطالعہ کا شیڈول بنائیں)  
+│       • Allocate specific time slots for each subject/topic  
+│       • Example: 9-10 AM: Grammar, 10-11 AM: Vocabulary  
+│       // ہر مضمون یا موضوع کے لیے مخصوص وقت مقرر کریں  
+│
+│   2. Prioritize Tasks (کاموں کو ترجیح دیں)  
+│       • Focus on high-weightage topics first  
+│       • Example: Practice past papers before revising minor topics  
+│       // اہم یا زیادہ نمبر والے موضوعات پر پہلے توجہ دیں  
+│
+│   3. Use Time Blocks (وقت کے بلاک استعمال کریں)  
+│       • Study in focused intervals (e.g., 50 minutes study + 10 minutes break)  
+│       • Example: Pomodoro Technique  
+│       // توجہ کے ساتھ وقت کے بلاک میں مطالعہ کریں  
+│
+│   4. Avoid Procrastination (کام کو ٹالنے سے گریز کریں)  
+│       • Start tasks immediately and follow the plan  
+│       • Example: Begin writing essays or solving papers without delay  
+│       // کام کو جلد شروع کریں اور منصوبے پر عمل کریں  
+│
+│   5. Practice with Timed Tests (وقت پر مبنی مشق کریں)  
+│       • Solve questions/papers within the actual exam time  
+│       • Example: Solve 50 MCQs in 30 minutes  
+│       // اصل امتحان کے وقت میں پرچے حل کریں  
+│
+│   6. Review and Adjust (جائزہ لیں اور ترتیب درست کریں)  
+│       • Assess your schedule weekly and adjust based on progress  
+│       • Example: Spend more time on weak areas  
+│       // ہفتہ وار اپنے شیڈول کا جائزہ لیں اور بہتری کے مطابق ایڈجسٹ کریں  
+
+├─ 3️⃣ Tips for Effective Exam Time Management  
+│       • Read questions first and allocate time accordingly  
+│         // پہلے سوالات پڑھیں اور وقت کے مطابق تقسیم کریں  
+│       • Leave difficult questions for later if stuck  
+│         // مشکل سوالات کو بعد کے لیے چھوڑیں  
+│       • Keep track of time during exams  
+│         // امتحان کے دوران وقت کا خیال رکھیں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Time Management → **Planning and allocating time to maximize performance**  
+       2. Key Tips → Study Schedule, Prioritize Tasks, Time Blocks, Avoid Procrastination, Timed Practice, Review & Adjust  
+       3. Urdu tip: وقت کی منصوبہ بندی → مطالعہ اور امتحان میں بہتر کارکردگی کے لیے ضروری  
+       4. Tip: **Plan, prioritize, practice with timing, review progress**  

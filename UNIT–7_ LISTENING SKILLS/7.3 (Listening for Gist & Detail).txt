@@ -1,0 +1,56 @@
+// ⭐ 7.3 LISTENING FOR GIST & DETAIL  
+// (خلاصہ اور تفصیل کے لیے سماعت)
+
+Listening for Gist & Detail
+│
+├─ 1️⃣ Definition  
+│       define: **Listening to understand the main idea (gist) and specific information (detail)**  
+│       Urdu: **سن کر مرکزی خیال (خلاصہ) اور خاص معلومات (تفصیل) کو سمجھنا**  
+
+├─ 2️⃣ Listening for Gist (خلاصہ سننا)  
+│       define: **Listening to get the general meaning of the message**  
+│       Urdu: **پیغام کا مجموعی مطلب سمجھنے کے لیے سننا**  
+│       Focus:  
+│           • Main idea  
+│           • Overall topic  
+│           • Speaker’s purpose  
+│       Example:  
+│           “The lecture is about climate change.”  
+│           // لیکچر موسمیاتی تبدیلی کے بارے میں ہے۔  
+
+├─ 3️⃣ Listening for Detail (تفصیل سننا)  
+│       define: **Listening to understand specific facts or information**  
+│       Urdu: **خاص معلومات یا حقائق جاننے کے لیے غور سے سننا**  
+│       Focus:  
+│           • Names  
+│           • Numbers  
+│           • Dates  
+│           • Reasons  
+│       Example:  
+│           “The temperature has increased by 2 degrees in the last decade.”  
+│           // پچھلے دس سالوں میں درجہ حرارت 2 ڈگری بڑھا ہے۔  
+
+├─ 4️⃣ Difference Between Gist & Detail  
+│
+│       Gist → General idea  
+│       // مجموعی خیال  
+│
+│       Detail → Specific information  
+│       // خاص معلومات  
+
+├─ 5️⃣ Tips for Effective Listening  
+│       • Listen without translating every word  
+│         // ہر لفظ کا ترجمہ کیے بغیر سنیں  
+│       • Focus on keywords  
+│         // اہم الفاظ پر توجہ دیں  
+│       • Take brief notes  
+│         // مختصر نوٹس بنائیں  
+│       • Listen more than once if possible  
+│         // ممکن ہو تو دوبارہ سنیں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Listening for Gist → **Understanding the main idea**  
+       2. Listening for Detail → **Understanding specific information**  
+       3. Gist first, detail later  
+       4. Urdu tip: پہلے مجموعی خیال، پھر تفصیل  
+       5. Tip: **Keywords help in both gist and detail listening**  

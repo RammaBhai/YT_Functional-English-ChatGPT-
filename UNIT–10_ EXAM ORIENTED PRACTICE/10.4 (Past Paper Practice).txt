@@ -1,0 +1,50 @@
+// ⭐ 10.4 PAST PAPER PRACTICE (پچھلے سال کے پرچے کی مشق)
+
+Past Paper Practice
+│
+├─ 1️⃣ Definition  
+│       define: **Using previous years’ exam papers to practice and understand exam patterns, question types, and time management**  
+│       Urdu: **گزشتہ سالوں کے امتحانی پرچوں کو استعمال کر کے مشق کرنا اور امتحان کے نمونے، سوالات کی اقسام، اور وقت کی منصوبہ بندی کو سمجھنا**  
+
+├─ 2️⃣ Benefits of Past Paper Practice  
+│
+│   1. Familiarity with Exam Pattern (امتحان کے نمونے سے واقفیت)  
+│       • Understand the structure and marking scheme  
+│       • Example: Number of MCQs, short, and long questions  
+│       // امتحان کے فارمیٹ اور مارکس کی تقسیم کو سمجھنا  
+│
+│   2. Time Management Skills (وقت کی منصوبہ بندی)  
+│       • Practice completing papers within allotted time  
+│       • Example: Solve a full paper in 2 hours  
+│       // مقررہ وقت میں پرچے حل کرنے کی مشق  
+│
+│   3. Identify Important Topics (اہم موضوعات کی شناخت)  
+│       • Frequently asked questions can be noted  
+│       • Example: Grammar and Essay questions often repeat  
+│       // اکثر پوچھے جانے والے موضوعات کو نوٹ کریں  
+│
+│   4. Boost Confidence (اعتماد میں اضافہ)  
+│       • Repeated practice reduces exam anxiety  
+│       • Example: Solve past paper weekly to gain confidence  
+│       // بار بار مشق کرنے سے امتحان کے خوف میں کمی آتی ہے  
+│
+│   5. Self-Assessment (خود کا جائزہ)  
+│       • Evaluate your strengths and weaknesses  
+│       • Example: Note areas where mistakes occur frequently  
+│       // اپنی طاقت اور کمزوری کا جائزہ لیں  
+
+├─ 3️⃣ Tips for Effective Past Paper Practice  
+│       • Solve papers under exam-like conditions  
+│         // اصل امتحان کی طرح حالات میں پرچے حل کریں  
+│       • Review mistakes carefully and learn from them  
+│         // غلطیوں کا بغور جائزہ لیں اور سبق سیکھیں  
+│       • Track time for each section  
+│         // ہر سیکشن کے لیے وقت ٹریک کریں  
+│       • Focus on frequently repeated questions  
+│         // اکثر دہرائے جانے والے سوالات پر توجہ دیں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Past Paper Practice → **Helps understand exam pattern, manage time, and gain confidence**  
+       2. Key Benefits → Familiarity, Time Management, Identify Important Topics, Boost Confidence, Self-Assessment  
+       3. Urdu tip: پچھلے پرچوں کی مشق → امتحان میں بہتر کارکردگی کے لیے ضروری  
+       4. Tip: **Practice, review mistakes, manage time, focus on repeating questions**  

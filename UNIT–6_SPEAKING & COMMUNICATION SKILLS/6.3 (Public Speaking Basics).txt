@@ -1,0 +1,60 @@
+// ⭐ 6.3 PUBLIC SPEAKING BASICS (عوامی خطاب کی بنیادیات)
+
+Public Speaking Basics
+│
+├─ 1️⃣ Definition  
+│       define: **The act of speaking confidently and effectively before an audience**  
+│       Urdu: **سامعین کے سامنے پُراعتماد اور مؤثر انداز میں بات کرنا**  
+
+├─ 2️⃣ Purpose of Public Speaking  
+│       • To inform the audience  
+│         // سامعین کو معلومات دینا  
+│       • To persuade or convince  
+│         // قائل کرنا یا اثر ڈالنا  
+│       • To motivate or inspire  
+│         // حوصلہ افزائی کرنا  
+
+├─ 3️⃣ Key Elements of Public Speaking  
+│
+│   1. Speaker (خطیب)  
+│       define: **Person who delivers the message**  
+│       Urdu: **پیغام پہنچانے والا شخص**  
+│
+│   2. Audience (سامعین)  
+│       define: **People who listen to the speech**  
+│       Urdu: **وہ لوگ جو تقریر سنتے ہیں**  
+│
+│   3. Message (پیغام)  
+│       define: **Main idea or content of the speech**  
+│       Urdu: **تقریر کا مرکزی خیال**  
+│
+│   4. Medium (ذریعہ)  
+│       define: **Way through which the message is delivered**  
+│       Urdu: **پیغام پہنچانے کا طریقہ (آواز، مائیک وغیرہ)**  
+
+├─ 4️⃣ Basic Skills for Effective Public Speaking  
+│       • Clear voice and correct pronunciation  
+│         // واضح آواز اور درست تلفظ  
+│       • Proper body language  
+│         // مناسب جسمانی حرکات  
+│       • Eye contact with audience  
+│         // سامعین سے آنکھوں کا رابطہ  
+│       • Confidence and calmness  
+│         // اعتماد اور سکون  
+│       • Organized content (Introduction → Body → Conclusion)  
+│         // منظم مواد (تعارف → اصل بات → نتیجہ)  
+
+├─ 5️⃣ Common Problems  
+│       • Nervousness  
+│         // گھبراہٹ  
+│       • Lack of preparation  
+│         // تیاری کی کمی  
+│       • Fear of audience  
+│         // مجمع سے خوف  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Public Speaking → **Speaking confidently before an audience**  
+       2. Purpose → Inform, persuade, motivate  
+       3. Skills → Clear voice, body language, eye contact, confidence  
+       4. Urdu tip: عوامی خطاب → سامعین سے مؤثر گفتگو  
+       5. Tip: **Practice + preparation = confidence**  

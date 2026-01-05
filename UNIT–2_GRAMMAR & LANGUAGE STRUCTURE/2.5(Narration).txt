@@ -1,0 +1,30 @@
+// ⭐ NARRATION (بیان / گفت و شنید)  
+// English + Urdu hints
+
+Narration
+│
+├─ 1️⃣ Direct Speech (براہِ راست کلام)  
+│       define: The **exact words** of the speaker are quoted.  
+│       Urdu: بولنے والے کے اصل الفاظ نقل کیے جاتے ہیں۔  
+│
+│       Example:  
+│       1. She said, "I am happy."  
+│          // اس نے کہا، "میں خوش ہوں۔"  
+│       2. He said, "I will come tomorrow."  
+│          // اس نے کہا، "میں کل آؤں گا۔"  
+│
+├─ 2️⃣ Indirect Speech (بالواسطہ کلام)  
+│       define: The **speaker’s words are reported** without quoting exactly.  
+│       Urdu: بولنے والے کے الفاظ کو رپورٹ کیا جاتا ہے بغیر اصل اقتباس کے۔  
+│
+│       Example:  
+│       1. She said that she was happy.  
+│          // اس نے کہا کہ وہ خوش تھی۔  
+│       2. He said that he would come the next day.  
+│          // اس نے کہا کہ وہ اگلے دن آئے گا۔  
+
+// ✅ Summary (خلاصہ)  
+// 1. Direct Speech → quotes **exact words** with quotation marks  
+// 2. Indirect Speech → reports **meaning** without exact words  
+// 3. In Indirect Speech, pronouns, tense, and time may **change**  
+// 4. Urdu tip: اصل الفاظ → Direct, معنی/رپورٹ → Indirect  

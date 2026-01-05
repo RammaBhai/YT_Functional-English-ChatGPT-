@@ -1,0 +1,48 @@
+// ⭐ PRECIS WRITING (خلاصہ نویسی)  
+// English + Urdu hints
+
+Precis Writing
+│
+├─ 1️⃣ Definition  
+│       define: **A concise summary of a passage, expressing only the main points in your own words**  
+│       Urdu: **عبارت کا مختصر خلاصہ جو صرف مرکزی نکات کو اپنے الفاظ میں بیان کرے**  
+
+├─ 2️⃣ Purpose  
+│       • To express the main idea clearly and briefly  
+│         // مرکزی خیال کو واضح اور مختصر انداز میں بیان کرنا  
+│       • To demonstrate understanding of the passage  
+│         // عبارت کی سمجھ بوجھ ظاہر کرنا  
+│       • To improve clarity and precision in writing  
+│         // تحریر میں وضاحت اور درستگی کو بہتر بنانا  
+
+├─ 3️⃣ Steps to Write a Good Precis  
+│
+│   1. Read the passage carefully → Understand main ideas  
+│      // عبارت کو غور سے پڑھیں → مرکزی خیال سمجھیں  
+│
+│   2. Identify key points → Ignore examples, illustrations, and repetitions  
+│      // اہم نکات تلاش کریں → مثالیں، وضاحتیں اور دہرائی کو نظرانداز کریں  
+│
+│   3. Write in your own words → Avoid copying sentences  
+│      // اپنے الفاظ میں لکھیں → جملے نقل کرنے سے بچیں  
+│
+│   4. Be brief → Keep it concise and to the point  
+│      // مختصر اور جامع رہیں → براہِ راست مرکزی خیال بیان کریں  
+│
+│   5. Maintain logical order → Ensure flow of ideas  
+│      // منطقی ترتیب برقرار رکھیں → خیالوں کے بہاؤ کو یقینی بنائیں  
+│
+│   6. Check grammar and clarity → Revise if needed  
+│      // گرائمر اور وضاحت چیک کریں → ضرورت پڑنے پر نظر ثانی کریں  
+
+├─ 4️⃣ Example  
+│   Passage → “The rapid growth of technology has changed human life in many ways. It has made communication faster and education more accessible. However, excessive use can lead to health problems and reduce social interaction.”  
+│   Precis → “Technology has transformed human life by improving communication and education, but overuse may harm health and reduce social interaction.”  
+│   // ٹیکنالوجی نے انسانی زندگی کو بہتر بنایا ہے، لیکن زیادہ استعمال صحت کو نقصان پہنچا سکتا ہے اور معاشرتی تعلقات کم کر سکتا ہے۔  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Precis Writing → **Concise summary of a passage in your own words**  
+       2. Key Steps → Read carefully, identify main points, write concisely, maintain order  
+       3. Urdu tip: خلاصہ نویسی → عبارت کا مختصر اور واضح خلاصہ  
+       4. Tip: Avoid examples, repetitions, and personal opinions unless asked  
+       5. Practice → Improves comprehension, brevity, and writing skills  

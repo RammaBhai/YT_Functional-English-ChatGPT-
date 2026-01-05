@@ -1,0 +1,31 @@
+// ⭐ VOICE (جملے کی آواز)  
+// English + Urdu hints
+
+Voice
+│
+├─ 1️⃣ Active Voice (فعلی جملہ - فاعل پر زور)  
+│       define: The **subject performs the action** of the verb.  
+│       Urdu: سبجیکٹ فعل انجام دیتا ہے۔  
+│
+│       Example:  
+│       1. She writes a letter.  
+│          // وہ خط لکھتی ہے۔  
+│       2. The teacher teaches the students.  
+│          // استاد طلبہ کو پڑھاتا ہے۔  
+│
+├─ 2️⃣ Passive Voice (مفعولی جملہ - مفعول پر زور)  
+│       define: The **subject receives the action** of the verb.  
+│       Urdu: سبجیکٹ پر عمل انجام دیا جاتا ہے۔  
+│
+│       Example:  
+│       1. A letter is written by her.  
+│          // خط اس کے ذریعے لکھا جاتا ہے۔  
+│       2. The students are taught by the teacher.  
+│          // طلبہ کو استاد پڑھاتا ہے۔  
+
+// ✅ Summary (خلاصہ)  
+// 1. Active Voice → emphasizes **doer/subject**  
+// 2. Passive Voice → emphasizes **receiver/object**  
+// 3. Active: Subject + Verb + Object  
+// 4. Passive: Object + Auxiliary (is/are/was/were) + Past Participle + (by + Subject)  
+// 5. Urdu tip: فاعل پر زور → Active, مفعول پر زور → Passive  

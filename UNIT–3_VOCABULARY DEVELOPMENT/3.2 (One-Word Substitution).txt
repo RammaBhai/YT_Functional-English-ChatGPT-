@@ -1,0 +1,31 @@
+// ⭐ ONE-WORD SUBSTITUTION (ایک لفظ میں اظہار)  
+// English + Urdu hints
+
+Vocabulary
+│
+├─ 1️⃣ Definition  
+│       define: Using **one word instead of a phrase or sentence**  
+│       Urdu: ایک جملے یا فقرے کی جگہ **صرف ایک لفظ استعمال کرنا**  
+
+├─ 2️⃣ Examples  
+│
+│   1. A person who cannot read and write → **Illiterate**  
+│      // ایسا شخص جو پڑھ یا لکھ نہ سکے → ناخواندہ  
+│
+│   2. Fear of heights → **Acrophobia**  
+│      // اونچائی کا خوف → ایروفوبیا  
+│
+│   3. One who loves books → **Bibliophile**  
+│      // جو کتابیں پسند کرتا ہے → کتاب دوست  
+│
+│   4. Study of the mind → **Psychology**  
+│      // ذہن کا مطالعہ → نفسیات  
+│
+│   5. A person who writes poems → **Poet**  
+│      // جو شخص شاعری کرتا ہے → شاعر  
+
+// ✅ Summary (خلاصہ)  
+// 1. One-Word Substitution → **simplifies phrases into one word**  
+// 2. Helps to make language **concise and precise**  
+// 3. Important for **writing, exams, and vocabulary building**  
+// 4. Urdu tip: ایک جملہ → ایک لفظ میں بیان کریں  

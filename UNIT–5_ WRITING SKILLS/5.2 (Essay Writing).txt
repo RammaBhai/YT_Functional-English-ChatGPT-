@@ -1,0 +1,38 @@
+// ⭐ ESSAY WRITING (مضمون نویسی)  
+// English + Urdu hints
+
+Essay Writing
+│
+├─ 1️⃣ Definition  
+│       define: **A piece of writing that explores a topic in detail, expressing ideas, opinions, or information**  
+│       Urdu: کسی موضوع پر **تفصیلی تحریر جو خیالات، رائے یا معلومات بیان کرتی ہے**  
+
+├─ 2️⃣ Types of Essays  
+│
+│   1. Descriptive Essay (تشریحی مضمون)  
+│       define: **Describes a person, place, object, or event in detail using sensory details**  
+│       Urdu: کسی شخص، جگہ، چیز یا واقعے کی **تفصیل بیان کرنا، حسی معلومات کے ساتھ**  
+│       Example:  
+│           “The beach was calm with golden sand and gentle waves. The sun set in hues of orange and pink.”  
+│           // ساحل پرسکون تھا، سنہری ریت اور ہلکی لہریں تھیں۔ سورج نے نارنجی اور گلابی رنگوں میں غروب کیا۔  
+│
+│   2. Narrative Essay (بیانیہ مضمون)  
+│       define: **Tells a story or shares an experience in chronological order**  
+│       Urdu: ایک کہانی بیان کرنا یا تجربہ شیئر کرنا **ترتیبی انداز میں**  
+│       Example:  
+│           “Last summer, I went to Murree with my family. We enjoyed the cool weather and scenic views.”  
+│           // پچھلی گرمیوں میں میں اپنے خاندان کے ساتھ مری گیا۔ ہم نے ٹھنڈے موسم اور خوبصورت مناظر کا لطف اٹھایا۔  
+│
+│   3. Argumentative Essay (دلائل پر مبنی مضمون)  
+│       define: **Presents an argument, supports it with evidence, and convinces the reader**  
+│       Urdu: **دلائل پیش کرنا، شواہد کے ساتھ مضبوط کرنا، اور قاری کو قائل کرنا**  
+│       Example:  
+│           “School uniforms should be mandatory because they promote equality among students and reduce distractions.”  
+│           // اسکول کی یونیفارم لازمی ہونی چاہیے کیونکہ یہ طلبہ کے درمیان برابری کو فروغ دیتی ہے اور توجہ بٹنے سے بچاتی ہے۔  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Essay Writing → **Detailed writing on a topic expressing ideas or opinions**  
+       2. Types → Descriptive, Narrative, Argumentative  
+       3. Descriptive → **Describe in detail**, Narrative → **Tell a story**, Argumentative → **Present and support arguments**  
+       4. Urdu tip: مضمون نویسی → خیالات یا معلومات پر مبنی تحریر  
+       5. Tip: Plan structure → Introduction + Body + Conclusion  

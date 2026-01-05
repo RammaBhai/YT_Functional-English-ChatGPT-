@@ -1,0 +1,55 @@
+// ⭐ 9.1 COMMON GRAMMATICAL ERRORS (عام گرامر کی غلطیاں)
+
+Common Grammatical Errors
+│
+├─ 1️⃣ Definition  
+│       define: **Mistakes commonly made in writing or speaking that violate standard grammar rules**  
+│       Urdu: **تحریر یا گفتگو میں کی جانے والی عام غلطیاں جو قواعدِ زبان کی خلاف ورزی کرتی ہیں**  
+
+├─ 2️⃣ Types of Common Errors  
+│
+│   1. Subject-Verb Agreement (فاعل اور فعل کی مطابقت)  
+│       • Error: He go to school.  
+│       • Correct: He **goes** to school.  
+│       // وہ اسکول جاتا ہے۔  
+│
+│   2. Tense Errors (زمانہ کی غلطیاں)  
+│       • Error: I am go to market.  
+│       • Correct: I **am going** to the market.  
+│       // میں بازار جا رہا ہوں۔  
+│
+│   3. Preposition Errors (حرفِ جار کی غلطیاں)  
+│       • Error: She is good in English.  
+│       • Correct: She is good **at** English.  
+│       // وہ انگریزی میں اچھی ہے۔  
+│
+│   4. Articles Errors (حروفِ تعریف کی غلطیاں)  
+│       • Error: I saw **a** sun rise.  
+│       • Correct: I saw **the** sun rise.  
+│       // میں نے سورج کو طلوع ہوتے دیکھا۔  
+│
+│   5. Pronoun Errors (ضمیر کی غلطیاں)  
+│       • Error: Him is my friend.  
+│       • Correct: **He** is my friend.  
+│       // وہ میرا دوست ہے۔  
+│
+│   6. Spelling & Punctuation Errors (املا اور اوقافی نشانات کی غلطیاں)  
+│       • Error: Lets eat, grandma.  
+│       • Correct: **Let’s eat, Grandma.**  
+│       // چلو کھائیں، دادی۔  
+
+├─ 3️⃣ Tips to Avoid Grammatical Errors  
+│       • Read carefully and proofread  
+│         // غور سے پڑھیں اور جانچ کریں  
+│       • Learn basic grammar rules  
+│         // بنیادی قواعدِ زبان سیکھیں  
+│       • Practice writing regularly  
+│         // باقاعدگی سے لکھائی کی مشق کریں  
+│       • Use grammar-checking tools  
+│         // گرامر چیک کرنے والے ٹولز استعمال کریں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Common Grammatical Errors → **Mistakes violating standard grammar**  
+       2. Key Types → Subject-verb agreement, tense, prepositions, articles, pronouns, spelling & punctuation  
+       3. Urdu tip: عام گرامر کی غلطیاں → درست لکھائی اور بولائی کے لیے سمجھنا ضروری  
+       4. Tip: **Proofread and practice to reduce errors**  

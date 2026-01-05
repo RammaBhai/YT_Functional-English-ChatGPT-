@@ -1,0 +1,41 @@
+// ⭐ VOCABULARY FROM CONTEXT (سیاق و سباق سے الفاظ کی سمجھ)  
+// English + Urdu hints
+
+Reading Skill
+│
+├─ 1️⃣ Definition  
+│       define: **Understanding the meaning of a word based on the surrounding words or sentence**  
+│       Urdu: لفظ کے معنی **اس کے گرد موجود الفاظ یا جملے سے سمجھنا**  
+
+├─ 2️⃣ Steps to Understand Vocabulary from Context  
+│
+│   1. Read the entire sentence → get general meaning  
+│      // پورا جملہ پڑھیں → عمومی معنی حاصل کریں  
+│
+│   2. Look for **context clues** → words that hint at meaning  
+│      // سیاق و سباق کے اشارے دیکھیں → وہ الفاظ جو معنی کی نشاندہی کرتے ہیں  
+│
+│   3. Check **synonyms or antonyms** in the sentence → helps guess meaning  
+│      // جملے میں ہم معنی یا مخالف معنی کے الفاظ دیکھیں → معنی سمجھنے میں مدد  
+│
+│   4. Consider **prefixes, suffixes** → changes word meaning  
+│      // ابتدائی اور آخری حروف دیکھیں → لفظ کے معنی بدل سکتے ہیں  
+│
+│   5. Replace the word in your own words → confirm understanding  
+│      // لفظ کو اپنے الفاظ میں بدلیں → سمجھ کی تصدیق کریں  
+
+├─ 3️⃣ Examples  
+│   1. The boy was **elated** after winning the match.  
+│      → Context clue: “after winning the match” → meaning: **very happy**  
+│      // لڑکا میچ جیتنے کے بعد خوش تھا  
+│
+│   2. She was very **frugal**, saving money for future.  
+│      → Context clue: “saving money” → meaning: **careful with money**  
+│      // وہ پیسوں کی بچت کرنے میں محتاط تھی  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Vocabulary from context → **Guess word meaning from surrounding words**  
+       2. Look for clues → Synonyms, Antonyms, Examples  
+       3. Check prefixes & suffixes → changes word meaning  
+       4. Urdu tip: لفظ کا مطلب سیاق و سباق سے سمجھیں  
+       5. Practice → improves **reading comprehension and vocabulary skills**  

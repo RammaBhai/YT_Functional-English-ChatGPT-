@@ -1,0 +1,230 @@
+past + present + perfect
+
+main link := indefinite + continuous + perfect + perfect continuous
+
+-tenses:
+- perfect tense
+- past tense
+- future tense
+
+auxiliary verbs:
+- do/does      - did/does   - will/shall
+- is/are/am    - was/were   - be/is/are
+- has/have     - had/have   - have/has
+
+eg: she does not learn English.
+from(1,2,3): learn, learning, learned
+
+// Verb forms
+indefinite → mv1  
+continuous → mv1 + ing  
+perfect → mv3  
+
+⭐ Present Indefinite Tense (habit, schedule, routine)
+
+1. Affirmative [subject + mv1 + s/es (3rd person singular) + object]  
+    eg:
+    1. I write on the whiteboard.  
+    2. You know him/her.  
+    3. Haris lives with me.  
+
+2. Negative [subject + do/does + not + mv1 + object]  
+    eg:
+    1. I do not tell lies.  
+    2. She does not take medicines.  
+    3. They do not play football.  
+    4. She does not try.  
+
+3. Interrogative [do/does + subject + mv1 + object]  
+    eg:
+    1. Do you play football?  
+    2. Do you live there?  
+    3. Does she work here?  
+    4. Does he know me?  
+    5. Does Haris come today?  
+    6. Does he teach you?  
+
+4. Double Interrogative (Yes/No) [wh-family + do/does + subject + mv1 + object]  
+    eg:
+    1. Why do you cry?  
+    2. What does he say?  
+    3. Where do we go?  
+
+⭐ Present Continuous Tense [subject + is/are/am + mv1 + ing + object]
+
+1. Affirmative  
+    eg:  
+    1. I am going.  
+    2. I am from Dhale.  
+    3. She is preparing for the exam.  
+    4. You are thinking about it.  
+
+2. Negative  
+    eg:  
+    1. I am not going.  
+    2. She is not preparing for the exam.  
+    3. Your brother is not calling you.  
+    4. He is not getting me.  
+
+3. Interrogative [is/are/am + subject + mv1 + ing + object]  
+    eg:  
+    1. Are you talking to me?  
+    2. Is she going home?  
+    3. Are you celebrating your birthday?  
+
+4. Double Interrogative [wh-family + is/are/am + subject + mv1 + ing + object]  
+    eg:  
+    1. Where are you going tonight?  
+    2. Why is he not talking to me?  
+    3. Which phone are you using?  
+
+⭐ Present Perfect Tense [subject + has/have + mv3 + object]
+
+1. Affirmative  
+    eg:  
+    1. I have eaten the food.  
+    2. We have met her/him.  
+    3. He has met you.  
+
+2. Negative  
+    eg:  
+    1. I have not eaten the food.  
+    2. We have not met her/him.  
+    3. He has not met you.  
+
+3. Interrogative [has/have + subject + mv3 + object]  
+    eg:  
+    1. Have you won the match?  
+    2. Have you done the work?  
+
+4. Double Interrogative [wh-family + has/have + subject + mv3 + object]  
+    eg:  
+    1. When have you done the work?  
+
+⭐ Present Perfect Continuous Tense [subject + has/have been + mv1 + ing + object + since/for + date/time]
+
+1. Affirmative  
+    eg:  
+    1. I have been eating the food.  
+    2. We have been meeting her/him.  
+    3. He has been meeting you.  
+    4. I have been waiting for you since morning.  
+    5. He has been trying for 2 days.  
+
+2. Negative  
+    eg:  
+    1. I have not been eating the food.  
+    2. Your son has not been coming to school for 2 days.  
+    3. She has not been learning her lessons since evening.  
+
+3. Interrogative  
+    eg:  
+    1. Have you been waiting for me since morning?  
+    2. Has she been doing her work since evening?  
+    3. Have they been playing football for 2 hours?  
+
+4. Double Interrogative  
+    eg:  
+    1. Where have you been going since morning?  
+    2. Why has she been crying since evening?  
+
+⭐ Past Indefinite Tense [subject + mv2 + object]
+
+1. Affirmative  
+    eg:  
+    1. I wrote a letter.  
+    2. You knew him/her.  
+    3. Haris lived with me.  
+    4. He came.  
+    5. We met him.  
+
+2. Negative [subject + did + not + mv1 + object]  
+    eg:  
+    1. I did not tell a lie.  
+    2. She did not take medicines.  
+    3. They did not play football.  
+
+3. Interrogative [did + subject + mv1 + object]  
+    eg:  
+    1. Did you play?  
+    2. Did you live there?  
+    3. Did she work here?  
+
+4. Double Interrogative [wh-family + did + subject + mv1 + object]  
+    eg:  
+    1. Why did you call me?  
+    2. What did you ask him?  
+
+⭐ Past Continuous Tense [subject + was/were + mv1 + ing + object]  
+
+1. Affirmative  
+    eg:  
+    1. I was going.  
+    2. She was preparing for the exam.  
+    3. You were thinking about it.  
+
+2. Negative  
+    eg:  
+    1. I was not going.  
+    2. She was not taking medicines.  
+    3. They were not playing football.  
+
+3. Interrogative [was/were + subject + mv1 + ing + object]  
+    eg:  
+    1. Was I talking to you?  
+    2. Were you speaking English?  
+
+4. Double Interrogative [wh-family + was/were + subject + mv1 + ing + object]  
+    eg:  
+    1. Where were you going tonight?  
+    2. Why was he not talking to me?  
+
+⭐ Past Perfect Tense [subject + had + mv3 + object]
+
+1. Affirmative  
+    eg:  
+    1. I had eaten the food.  
+    2. We had met her/him.  
+    3. He had met you.  
+
+2. Negative  
+    eg:  
+    1. I had not eaten the food.  
+    2. We had not met her/him.  
+    3. He had not met you.  
+
+3. Interrogative [had + subject + mv3 + object]  
+    eg:  
+    1. Had you gone there?  
+    2. Had you met him?  
+
+4. Double Interrogative [wh-family + had + subject + mv3 + object]  
+    eg:  
+    1. Where had you gone?  
+    2. Why had she been crying?  
+
+⭐ Future Tense (will/shall) [subject + will/shall + mv1 + object]
+
+1. Affirmative  
+    eg:  
+    1. I will go.  
+    2. I shall go.  
+    3. You will come.  
+
+2. Negative  
+    eg:  
+    1. I will not go.  
+    2. I shall not go.  
+    3. You will not come.  
+
+3. Interrogative [will/shall + subject + mv1 + object]  
+    eg:  
+    1. Will you go?  
+    2. Shall I go?  
+
+4. Double Interrogative [wh-family + will/shall + subject + mv1 + object]  
+    eg:  
+    1. When will you go?  
+    2. Why shall I come?  
+
+// ✅ Future Continuous, Perfect, and Perfect Continuous follow same improved structure.

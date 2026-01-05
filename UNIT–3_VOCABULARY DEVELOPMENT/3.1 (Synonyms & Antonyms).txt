@@ -1,0 +1,35 @@
+// ⭐ SYNONYMS & ANTONYMS (ہم معنی اور مخالف معنی کے الفاظ)  
+// English + Urdu hints
+
+Vocabulary
+│
+├─ 1️⃣ Synonyms (ہم معنی الفاظ)  
+│       define: Words that **have the same or nearly the same meaning**  
+│       Urdu: ایسے الفاظ جو **ایک جیسے یا قریب قریب معنی رکھتے ہیں**  
+│
+│       Examples:  
+│       1. Happy → Joyful  
+│          // خوش → پرمسرت  
+│       2. Big → Large  
+│          // بڑا → وسیع  
+│       3. Fast → Quick  
+│          // تیز → جلدی  
+
+├─ 2️⃣ Antonyms (مخالف معنی الفاظ)  
+│       define: Words that **have opposite meanings**  
+│       Urdu: ایسے الفاظ جو **مخالف معنی رکھتے ہیں**  
+│
+│       Examples:  
+│       1. Happy → Sad  
+│          // خوش → اداس  
+│       2. Big → Small  
+│          // بڑا → چھوٹا  
+│       3. Fast → Slow  
+│          // تیز → سست  
+
+// ✅ Summary (خلاصہ)  
+// 1. Synonyms → الفاظ جو **ایک جیسے معنی رکھتے ہیں**  
+// 2. Antonyms → الفاظ جو **مخالف معنی رکھتے ہیں**  
+// 3. Use synonyms to **enhance vocabulary**  
+// 4. Use antonyms to **understand contrasts and enrich language**  
+// 5. Urdu tip: ہم معنی → Synonyms, مخالف معنی → Antonyms

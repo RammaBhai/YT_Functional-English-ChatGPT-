@@ -1,0 +1,53 @@
+// ⭐ 9.4 CAPITALIZATION RULES (حروفِ تہجی کو بڑے لکھنے کے قواعد)
+
+Capitalization Rules
+│
+├─ 1️⃣ Definition  
+│       define: **Rules for writing the first letter of certain words in uppercase to show importance or proper usage**  
+│       Urdu: **کچھ الفاظ کے پہلے حرف کو بڑے لکھنے کے قواعد تاکہ اہمیت یا صحیح استعمال ظاہر ہو**  
+
+├─ 2️⃣ Common Rules of Capitalization  
+│
+│   1. Capitalize the First Word of a Sentence  
+│       • Example: **She** is going to the market.  
+│       // جملے کے پہلے لفظ کو بڑا لکھیں: وہ بازار جا رہی ہے۔  
+│
+│   2. Capitalize Proper Nouns (خاص نام)  
+│       • People: **Ali, Fatima**  
+│       • Places: **Lahore, Paris**  
+│       • Organizations: **UN, Microsoft**  
+│       // لوگوں، جگہوں، اداروں کے نام بڑے لکھیں  
+│
+│   3. Capitalize Days, Months, and Holidays (دن، مہینے، تعطیلات)  
+│       • Example: **Monday, January, Eid-ul-Fitr**  
+│       // پیر، جنوری، عید الفطر  
+│
+│   4. Capitalize Titles (عنوانات)  
+│       • Example: **President, Doctor, Sir, Professor**  
+│       // صدر، ڈاکٹر، سر، پروفیسر  
+│
+│   5. Capitalize I (ضمیر میں)  
+│       • Example: **I** am learning English.  
+│       // ضمیر "I" ہمیشہ بڑا لکھیں  
+│
+│   6. Capitalize the First Word in Quotations  
+│       • Example: She said, “**We** are ready.”  
+│       // اقتباسات میں پہلے لفظ کو بڑا لکھیں  
+│
+│   7. Capitalize Major Words in Titles of Books, Articles, Movies  
+│       • Example: **Harry Potter and the Sorcerer’s Stone**  
+│       // کتابوں، مضامین، فلموں کے عنوانات کے اہم الفاظ کو بڑا لکھیں  
+
+├─ 3️⃣ Tips for Correct Capitalization  
+│       • Always check proper nouns and first words  
+│         // ہمیشہ خاص نام اور جملے کے پہلے لفظ کو چیک کریں  
+│       • Avoid unnecessary capitalization  
+│         // غیر ضروری بڑے حروف سے گریز کریں  
+│       • Use style guides for formal writing  
+│         // رسمی تحریر کے لیے سٹائل گائیڈ استعمال کریں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Capitalization → **Using uppercase letters for importance and proper nouns**  
+       2. Key Rules → First word, proper nouns, days/months, titles, I, quotations, major words in titles  
+       3. Urdu tip: حروفِ تہجی کو بڑے لکھنا → جملے کی درستگی اور پیشہ ورانہ تحریر کے لیے ضروری  
+       4. Tip: **Check nouns, titles, and sentence beginnings to capitalize correctly**  

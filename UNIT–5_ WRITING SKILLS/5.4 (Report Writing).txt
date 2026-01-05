@@ -1,0 +1,53 @@
+// ⭐ REPORT WRITING (رپورٹ نویسی)  
+// English + Urdu hints
+
+Report Writing
+│
+├─ 1️⃣ Definition  
+│       define: ** A structured document that presents information, findings, or analysis on a specific topic or event **  
+│       Urdu: ** ایک منظم تحریر جو کسی موضوع یا واقعے کے بارے میں معلومات، نتائج یا تجزیہ پیش کرتی ہے **  
+
+├─ 2️⃣ Types of Reports  
+│
+│   1. Informal Report(غیر رسمی رپورٹ)  
+│       define: ** Simple report for internal or personal use, usually brief and less structured **  
+│       Urdu: ** سادہ رپورٹ جو ذاتی یا داخلی استعمال کے لیے ہو، مختصر اور کم منظم **  
+│       Example:  
+│           “The team completed the project ahead of schedule.All tasks were done efficiently.”  
+│           // ٹیم نے منصوبہ مقررہ وقت سے پہلے مکمل کر لیا۔ تمام کام مؤثر طریقے سے انجام دیے گئے۔  
+│
+│   2. Formal Report(رسمی رپورٹ)  
+│       define: ** Detailed report for official or professional purposes, structured and precise **  
+│       Urdu: ** تفصیلی رپورٹ جو سرکاری یا پیشہ ورانہ مقاصد کے لیے ہو، منظم اور درست **  
+│       Key Features:  
+│           • Title Page / Heading  
+│           • Introduction → Purpose  
+│           • Body → Findings / Data / Analysis  
+│           • Conclusion / Recommendations  
+│       Example:  
+│           “Subject: Annual Performance Report.This report evaluates the productivity of the marketing department during 2025.”  
+│           // موضوع: سالانہ کارکردگی رپورٹ۔ یہ رپورٹ 2025 کے دوران مارکیٹنگ ڈیپارٹمنٹ کی پیداواری صلاحیت کا جائزہ لیتی ہے۔  
+
+├─ 3️⃣ Steps for Writing a Good Report  
+│
+│   1. Understand the purpose → Why are you writing ?  
+│      // مقصد سمجھیں → آپ کیوں لکھ رہے ہیں؟  
+│
+│   2. Collect information → Data, facts, observations  
+│      // معلومات جمع کریں → اعداد و شمار، حقائق، مشاہدات  
+│
+│   3. Organize content → Introduction, Body, Conclusion  
+│      // مواد منظم کریں → تعارف، جسم، نتیجہ  
+│
+│   4. Use clear and formal language → Avoid casual tone  
+│      // صاف اور رسمی زبان استعمال کریں → غیر رسمی انداز سے بچیں  
+│
+│   5. Proofread and edit → Check grammar, punctuation, and accuracy  
+│      // پروف ریڈ کریں → گرائمر، اوقاف اور درستگی چیک کریں  
+
+└─ ✅ Summary(خلاصہ)
+1. Report Writing → ** Structured presentation of information or analysis **
+    2. Types → Informal(brief, internal) / Formal(detailed, official)
+3. Structure → Heading, Introduction, Body, Conclusion
+4. Urdu tip: رپورٹ نویسی → معلومات یا تجزیہ منظم انداز میں پیش کرنا
+5. Tip: Always ** clarify purpose, organize data, and maintain formal tone **  

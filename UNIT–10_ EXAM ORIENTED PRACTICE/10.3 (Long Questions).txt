@@ -1,0 +1,51 @@
+// ⭐ 10.3 LONG QUESTIONS / ESSAY TYPE QUESTIONS (طویل سوالات / مضمون نما سوالات)
+
+Long Questions
+│
+├─ 1️⃣ Definition  
+│       define: **Questions that require detailed, structured, and well-explained answers, usually in paragraphs or essays**  
+│       Urdu: **ایسے سوالات جن کے جوابات تفصیلی، منظم اور اچھی طرح وضاحت شدہ ہوں، عموماً پیراگراف یا مضمون کی شکل میں**  
+
+├─ 2️⃣ Common Types of Long Questions  
+│
+│   1. Descriptive Questions (وضاحتی سوالات)  
+│       • Require explanation of a concept or idea  
+│       • Example: Explain the process of photosynthesis.  
+│       • Answer: A detailed paragraph describing sunlight, chlorophyll, carbon dioxide, and glucose formation.  
+│       // کسی تصور یا خیال کی وضاحت کریں  
+│
+│   2. Narrative Questions (قصہ نما سوالات)  
+│       • Ask to tell a story or describe events in sequence  
+│       • Example: Write a story about a memorable day.  
+│       • Answer: Multiple paragraphs narrating events chronologically.  
+│       // کہانی یا واقعات بیان کریں  
+│
+│   3. Argumentative / Opinion Questions (دلائل یا رائے پر مبنی سوالات)  
+│       • Require presenting arguments, opinions, or justifications  
+│       • Example: Discuss the advantages and disadvantages of social media.  
+│       • Answer: Structured paragraphs with pros and cons.  
+│       // دلائل یا رائے پیش کریں  
+│
+│   4. Comparative / Analytical Questions (تقابلی یا تحلیلی سوالات)  
+│       • Compare concepts or analyze a situation  
+│       • Example: Compare renewable and non-renewable energy sources.  
+│       • Answer: Paragraphs comparing features, benefits, and drawbacks.  
+│       // تقابلی یا تجزیاتی انداز میں جواب دیں  
+
+├─ 3️⃣ Tips for Answering Long Questions  
+│       • Plan your answer before writing  
+│         // لکھنے سے پہلے جواب کا خاکہ بنائیں  
+│       • Use paragraphs with topic sentences  
+│         // ہر پیراگراف میں مرکزی خیال شامل کریں  
+│       • Provide examples and explanations  
+│         // مثالیں اور وضاحتیں شامل کریں  
+│       • Conclude with a summary or opinion  
+│         // آخر میں خلاصہ یا رائے پیش کریں  
+│       • Maintain proper grammar and punctuation  
+│         // درست گرامر اور اوقافی نشانات استعمال کریں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Long Questions → **Require detailed, structured, and well-explained answers**  
+       2. Types → Descriptive, Narrative, Argumentative/Opinion, Comparative/Analytical  
+       3. Urdu tip: طویل سوالات → منظم، واضح اور مکمل جواب دینے کے لیے  
+       4. Tip: **Plan, structure in paragraphs, use examples, conclude properly**  

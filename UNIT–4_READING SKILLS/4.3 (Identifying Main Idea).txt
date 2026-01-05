@@ -1,0 +1,40 @@
+// ⭐ IDENTIFYING MAIN IDEA (مرکزی خیال کی شناخت)  
+// English + Urdu hints
+
+Reading Skill
+│
+├─ 1️⃣ Definition  
+│       define: **Finding the central thought or primary point** of a passage  
+│       Urdu: عبارت میں موجود **مرکزی خیال یا بنیادی نکتہ تلاش کرنا**  
+
+├─ 2️⃣ Steps to Identify Main Idea  
+│
+│   1. Read the title carefully → gives clue about topic  
+│      // عنوان غور سے پڑھیں → موضوع کا پتہ چلتا ہے  
+│
+│   2. Read the first and last sentences → usually contains main point  
+│      // پہلی اور آخری سطر پڑھیں → عام طور پر مرکزی خیال ظاہر ہوتا ہے  
+│
+│   3. Look for repeated words or phrases → important for main idea  
+│      // دہرائے جانے والے الفاظ یا جملے دیکھیں → مرکزی خیال میں مددگار  
+│
+│   4. Ignore minor details → focus on general meaning  
+│      // چھوٹی تفصیلات نظر انداز کریں → عمومی معنی پر توجہ دیں  
+│
+│   5. Summarize in your own words → ensure understanding  
+│      // اپنے الفاظ میں خلاصہ کریں → سمجھ کا یقین کریں  
+
+├─ 3️⃣ Examples  
+│   1. Passage about “Pollution” → Main Idea: Human activities **harm the environment**  
+│      // آلودگی کے بارے میں عبارت → مرکزی خیال: انسانی سرگرمیاں ماحول کو نقصان پہنچاتی ہیں  
+│
+│   2. Passage about “Rainforests” → Main Idea: **Rainforests support diverse plants and animals**  
+│      // بارش کے جنگل کے بارے میں عبارت → مرکزی خیال: جنگل مختلف پودے اور جانور رکھتا ہے  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Main Idea → **Central thought of passage**  
+       2. Title + First/Last sentence → key clues  
+       3. Look for repeated words → signals importance  
+       4. Ignore minor details → focus on general meaning  
+       5. Urdu tip: عبارت کا مرکزی خیال → مضمون کی سب سے اہم بات  
+       6. Practice → improves **reading comprehension and summarizing skills**  

@@ -1,0 +1,48 @@
+// ⭐ 10.1 OBJECTIVE QUESTIONS (مقصدی سوالات)
+
+Objective Questions
+│
+├─ 1️⃣ Definition  
+│       define: **Questions designed to assess knowledge with definite answers, usually in multiple-choice, true/false, or fill-in-the-blank format**  
+│       Urdu: **ایسے سوالات جو مخصوص جواب کے لیے بنائے گئے ہوں، عموماً ایم سی کیو، صحیح/غلط، یا خالی جگہ پُر کرنے والے**  
+
+├─ 2️⃣ Common Types of Objective Questions  
+│
+│   1. Multiple Choice Questions (MCQs)  
+│       • Select the correct answer from given options  
+│       • Example:  
+│           Q: What is the capital of Pakistan?  
+│           A) Karachi  B) Islamabad  C) Lahore  D) Peshawar  
+│           Correct: B) Islamabad  
+│       // درست جواب منتخب کریں  
+│
+│   2. True/False Questions  
+│       • State whether a statement is correct or incorrect  
+│       • Example: The earth is flat. **False**  
+│       // بیان درست یا غلط ہے؟  
+│
+│   3. Fill-in-the-Blank Questions  
+│       • Complete the sentence with the correct word  
+│       • Example: The sun rises in the **east**.  
+│       // خالی جگہ کو صحیح لفظ سے پُر کریں  
+│
+│   4. Matching Questions  
+│       • Match items in one column with items in another  
+│       • Example: Match countries with their capitals  
+│       // ایک کالم کے عناصر کو دوسرے کالم سے جوڑیں  
+
+├─ 3️⃣ Tips for Answering Objective Questions  
+│       • Read the question carefully  
+│         // سوال کو غور سے پڑھیں  
+│       • Eliminate obviously wrong options  
+│         // واضح طور پر غلط جوابات کو خارج کریں  
+│       • Manage time effectively  
+│         // وقت کو مؤثر طریقے سے استعمال کریں  
+│       • Review your answers if time permits  
+│         // اگر وقت ہو تو جوابات کا جائزہ لیں  
+
+└─ ✅ Summary (خلاصہ)  
+       1. Objective Questions → **Questions with definite answers**  
+       2. Types → MCQs, True/False, Fill-in-the-Blank, Matching  
+       3. Urdu tip: مقصدی سوالات → علم اور سمجھ کی جلد جانچ کے لیے  
+       4. Tip: **Read carefully, eliminate wrong options, manage time**  
